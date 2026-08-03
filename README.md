@@ -1,2 +1,33 @@
-# week6-statistical-validation-pdm-capstone
-Week 6 PLP assignment covering statistical validation, predictive maintenance (PdM), machine learning model evaluation, feature engineering, and a capstone project proposal with supporting notebook, dataset, and documentation.
+
+# Week 6: Statistical Validation, Predictive Maintenance & Capstone Proposal
+
+## Objectives
+
+- Statistical validation
+- Hypothesis testing
+- Predictive Maintenance prototype
+- Remaining Useful Life concepts
+- Feature engineering
+- Model validation
+- Capstone proposal
+
+## Repository Contents
+
+- Jupyter Notebook
+- Pump sensor dataset
+- Capstone proposal
+- Supporting documentation
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+## Author
+
+Kelvin Moruri
+Power Learn Project
