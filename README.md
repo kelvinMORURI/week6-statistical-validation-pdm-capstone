@@ -1,33 +1,16 @@
+# 🛠️ Week 6 — Statistical Foundations & Predictive Maintenance (PdM)
 
-# Week 6: Statistical Validation, Predictive Maintenance & Capstone Proposal
+**KPC Cohort · Inuka Fellowship (Power Learn Project)**  
+**Analyst:** Kelvin Moruri  
 
-## Objectives
+---
 
-- Statistical validation
-- Hypothesis testing
-- Predictive Maintenance prototype
-- Remaining Useful Life concepts
-- Feature engineering
-- Model validation
-- Capstone proposal
+## 📌 Project at a Glance
 
-## Repository Contents
+This repository contains my complete submission for **Week 6** of the Data Analytics Fellowship. The goal was to move beyond a simple data generation script and deliver a full‑fledged predictive maintenance solution for centrifugal pumps—complete with **statistical validation**, **feature engineering**, **classification**, and **remaining‑useful‑life (RUL) regression**.
 
-- Jupyter Notebook
-- Pump sensor dataset
-- Capstone proposal
-- Supporting documentation
+> **The twist:** Instead of relying on the instructor’s ensemble classifier, I built **Logistic Regression** and **Linear Regression** models, as required by the graded assignment brief. This forced me to think critically about model interpretability, business value, and the trade‑offs between complexity and performance.
 
-## Technologies
+---
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
-
-## Author
-
-Kelvin Moruri
-Power Learn Project
+## 📂 What’s Inside
