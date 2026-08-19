@@ -48,13 +48,13 @@ assignment by:
   documented business implications for both models
 
 ### Part B — Communication Briefs
-**`deliverables/Week6_Communication_Briefs_Lameck.pdf`**
+**`deliverables/Week6_Communication_Briefs_KelvinMoruri.pdf`**
 
 Two audience-calibrated briefs (Technical Engineering / Executive CFO) built from the
 notebook's actual output metrics, plus a reflection on switching communication contexts.
 
 ### Part C — Capstone Proposal
-**`deliverables/Capstone_Proposal_Team_Lameck.pdf`**
+**`deliverables/Capstone_Proposal_Team_KelvinMorur.pdf`**
 
 Proposes extending this Week 6 lab into the full capstone: KPC pipeline pump predictive
 maintenance, explicitly pivoting from the team's Hackathon #1 focus (billing/revenue
